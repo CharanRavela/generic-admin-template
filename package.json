@@ -6,7 +6,7 @@
     "browser-sync": "2.26.3",
     "chalk": "2.4.1",
     "del": "3.0.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-angular-filesort": "1.2.1",
     "gulp-angular-templatecache": "2.2.2",
     "gulp-autoprefixer": "6.0.0",
